@@ -1,6 +1,6 @@
 # Gmail to Slack notifications
 
-<video src="https://share.descript.com/embed/VNAlee2IAoo" autoplay></video>
+[View demo](https://share.descript.com/view/VNAlee2IAoo)
 
 ## Setup
 
