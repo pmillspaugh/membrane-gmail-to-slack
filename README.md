@@ -12,4 +12,4 @@
 1. Configure the `slack` driver with your bot token
 1. Set up a forwarding rule in Gmail to your program's email address
 
-If you'd a hand getting set up, don't hesitate to [email me](mailto:pete@membrane.io). We are eager to make sharing Membrane programs easier, so we'd love your feedback on what's confusing and what works.
+If you'd like a hand getting set up, don't hesitate to [email me](mailto:pete@membrane.io). We are eager to make sharing Membrane programs easier, so we'd love your feedback on what's confusing and what works.
