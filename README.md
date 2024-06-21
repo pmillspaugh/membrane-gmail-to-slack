@@ -1,6 +1,6 @@
 # Gmail to Slack notifications
 
-<iframe src="https://share.descript.com/embed/VNAlee2IAoo" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<video src="https://share.descript.com/embed/VNAlee2IAoo" autoplay></video>
 
 ## Setup
 
